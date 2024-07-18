@@ -28,7 +28,7 @@
   <a href="https://instagram.com/official_isunil" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" />
   </a>
-  <a href="[https://www.youtube.com/c/rishav chanda](https://youtube.com/@sunil-vm8io?si=xEXGlzOo1ah4kNia)" target="blank">
+  <a href="https://youtube.com/@sunil-vm8io?si=xEXGlzOo1ah4kNia" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" />
   </a>
 </p>
